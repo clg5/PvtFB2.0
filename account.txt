@@ -1,6 +1,6 @@
 [
 	{
-		"key": "sb",
+		"key": "D+N",
 		"value": "e2wPaZbBQV3QswP8uEbS0kwg", 
 		"domain": "facebook.com",
 		"path": "/",
