@@ -1,4 +1,3 @@
-HELP.JS (FB BOT COMMAND)
 
 
 const { getPrefix } = global.utils || {};
