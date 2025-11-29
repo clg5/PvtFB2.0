@@ -1,63 +1,65 @@
-<!-- Premium README for Abid Hasan Bot -->
+![Banner](https://i.supaimg.com/b971558e-c42d-4c9b-aa7e-84b0bef9ddd9.jpg)
 
-<p align="center">
-  <img src="https://i.supaimg.com/b971558e-c42d-4c9b-aa7e-84b0bef9ddd9.jpg" alt="banner" style="border-radius: 12px; width: 100%; max-width: 900px;" />
-</p>
-
-<h1 align="center" style="font-weight: 800; font-size: 40px;">
-  <img src="https://i.supaimg.com/0eed9ec5-1d6e-42fb-960b-f451b4b18c1b.jpg" width="40px" style="border-radius: 50%;" />
-  Abid Hasan - Messenger Chat Bot
+<h1 align="center">
+  <img src="https://i.supaimg.com/0eed9ec5-1d6e-42fb-960b-f451b4b18c1b.jpg" width="70" alt="logo"><br>
+  <b>Omnipotent Abid - Hinata Bot Chat Messenger</b>
 </h1>
 
-<p align="center" style="font-size: 17px; font-weight: 600;">
-  A fully optimized, ultra‑premium fork of GoatBot with enhanced visuals, cleaner UI and powerful features.
-</p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/NodeJS-16.x-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-size/ntkhang03/Goat-Bot-V2?style=for-the-badge&label=Repo%20Size" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
-</p>
-
----
-
-### 🔥 **Original Author:** Ntkhang
-
-### ✨ **Premium Fork By:** **Abid Hasan**
-
-If you find bugs, feel free to report!
-
-<p align="center">
-  <a href="https://facebook.com/abid.hasan" target="_blank">
-    <img src="https://i.supaimg.com/6c66bc1c-393d-4162-8a7c-9a24e74ed0a6.jpg" width="120" style="border-radius: 12px; box-shadow: 0 0 12px rgba(0,0,0,0.4);" />
+  <a href="https://nodejs.org/dist/v16.20.0">
+    <img src="https://img.shields.io/badge/Nodejs%20Support-v16.x-blue?style=for-the-badge" alt="NodeJS">
   </a>
+  <img src="https://img.shields.io/badge/Code%20Version-1.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Visitors-Active-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Maintainer-Omnipotent%20Abid-red?style=for-the-badge">
 </p>
 
-<h3 align="center">🌟 Abid Hasan 🌟</h3>
+---
+
+### 🧑‍💻 **About This Bot**
+
+The original author of this bot is **Ntkhang**,  
+This fork is now maintained and upgraded by **Omnipotent Abid (Abid Hasan)**.
+
+If you find any issues, feel free to report!
 
 ---
 
-# 📝 **Tutorial**
-
-A complete tutorial has been uploaded on YouTube:
-
-📱 **Mobile Tutorial:**
-[https://youtu.be/zJsemXLaRbY?si=f0PE6L4oCGzYBwPn](https://youtu.be/zJsemXLaRbY?si=f0PE6L4oCGzYBwPn)
+## 🌸 **Developer**
+### **Omnipotent Abid**
+![Developer](https://i.supaimg.com/0eed9ec5-1d6e-42fb-960b-f451b4b18c1b.jpg)
 
 ---
 
-# 📞 **Contact Me**
+## 📝 **Tutorial**
+📌 The full tutorial has been uploaded on YouTube.
 
-<div style="font-family: Arial; color: black; font-size: 18px;">
-  <h3>- <a href="https://www.facebook.com/abid.hasan" target="_blank" style="text-decoration: none; color: black;">Facebook: Abid Hasan</a></h3>
-  <h3>- <a href="https://wa.me/8801836298139?text=Hi%20Abid%2C%20I%20want%20to%20chat!" target="_blank" style="text-decoration: none; color: black;">WhatsApp: Abid Hasan</a></h3>
-  <h3>- <a href="mailto:abidhasan.dev@gmail.com?subject=Hello%20Abid" style="text-decoration: none; color: black;">Gmail: abidhasan.dev@gmail.com</a></h3>
-</div>
+▶ **Mobile Tutorial:**  
+https://youtu.be/zJsemXLaRbY?si=f0PE6L4oCGzYBwPn
 
 ---
 
-<p align="center">
-  <img src="https://i.supaimg.com/0eed9ec5-1d6e-42fb-960b-f451b4b18c1b.jpg" width="200" style="border-radius: 16px; margin-top: 30px;" />
-</p>
+## 📩 **Contact**
+### 👉 **Facebook (Main Contact Only)**  
+[https://www.facebook.com/imnotabid](https://www.facebook.com/imnotabid)
 
-<h2 align="center">🔹 ABID HASAN 🔹</h2>
+---
+
+## 🔖 **Watermark**
+```
+🔹 Abid Hasan
+```
+
+---
+
+## 📸 **Facebook Profile Screenshot**
+![FB Screenshot](https://i.supaimg.com/6c66bc1c-393d-4162-8a7c-9a24e74ed0a6.jpg)
+
+---
+
+### ⭐ **Support the Project**
+If you like this project, please consider giving a **Star ⭐** on GitHub!
+
+---
+
+### © 2024 - Maintained by **Omnipotent Abid**
