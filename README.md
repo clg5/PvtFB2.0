@@ -1,54 +1,92 @@
-<img
-src="https://i.imgur.com/Mmo26FF.jpeg" alt="banner">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Omnipotent Abid - Premium Bot README</title>
+<style>
+    body {
+        margin: 0;
+        font-family: 'Segoe UI', sans-serif;
+        background: #0e0e0e;
+        color: #e8e8e8;
+        line-height: 1.6;
+    }
+    .banner img {
+        width: 100%;
+        border-bottom: 3px solid #444;
+    }
+    h1 {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 32px;
+        color: #ff4d4d;
+    }
+    .icon {
+        display: block;
+        margin: 0 auto 10px;
+        width: 80px;
+        border-radius: 12px;
+    }
+    .section {
+        background: #141414;
+        margin: 20px;
+        padding: 20px;
+        border-radius: 12px;
+        box-shadow: 0 0 15px rgba(255, 0, 0, 0.2);
+    }
+    a {
+        color: #ff4d4d;
+        text-decoration: none;
+        font-weight: 600;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    .contact img {
+        width: 100%;
+        border-radius: 12px;
+        margin-top: 10px;
+    }
+</style>
+</head>
+<body>
+    <div class="banner">
+        <img src="https://i.supaimg.com/b971558e-c42d-4c9b-aa7e-84b0bef9ddd9.jpg" alt="Banner" />
+    </div>
 
-<h1 align="center">
-  <img src="https://i.imgur.com/ZfuZrPc.jpeg" width="22px" alt="icon">
-  Hinata Bot - Bot Chat Messenger
-</h1>
+    <img src="https://i.supaimg.com/0eed9ec5-1d6e-42fb-960b-f451b4b18c1b.jpg" class="icon" alt="Developer Icon" />
 
-<p align="center">
-	<a href="https://nodejs.org/dist/v16.20.0">
-		<img src="https://img.shields.io/badge/Nodejs%20Support-16.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v16.x">
-	</a>
-  <img alt="size" src="https://img.shields.io/github/repo-size/ntkhang03/Goat-Bot-V2.svg?style=flat-square&label=size">
-  <img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=code%20version&prefix=v&query=%24.version&url=https://github.com/ntkhang03/Goat-Bot-V2/raw/main/package.json&style=flat-square">
-  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=ntkhang3.Goat-Bot-V2">
-  <img alt="size" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
-</p>
+    <h1>Omnipotent Abid - Bot Chat Messenger</h1>
 
+    <div class="section">
+        <h2>📦 Support</h2>
+        <p><a href="https://nodejs.org/dist/v16.20.0">NodeJS v16.x Supported</a></p>
+        <p>Size • Code Version • Visitors</p>
+    </div>
 
+    <div class="section">
+        <h2>👑 Developer & Credits</h2>
+        <p>Original Author: <strong>Ntkhang</strong></p>
+        <p>Maintained & Modified by: <strong>Omnipotent Abid</strong></p>
+        <p>If you find any issues, feel free to report!</p>
+    </div>
 
-The original author of this Bot is Ntkhang. This fork is maintained by: MahMUD  
+    <div class="section">
+        <h2>🌐 Facebook</h2>
+        <p><a href="https://www.facebook.com/imnotabid">Omnipotent Abid (Official)</a></p>
+        <img src="https://i.supaimg.com/6c66bc1c-393d-4162-8a7c-9a24e74ed0a6.jpg" alt="Facebook Screenshot" />
+    </div>
 
-If you find any issues, please report them!
+    <div class="section">
+        <h2>📚 Tutorial</h2>
+        <p>Full setup tutorial uploaded on YouTube:</p>
+        <p><a href="https://youtu.be/zJsemXLaRbY?si=f0PE6L4oCGzYBwPn">Watch Mobile Tutorial</a></p>
+    </div>
 
-
-𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud0x7" style="color: black;">Mah M UD</a></h3></div>
-
-<p align="center"><a href="fb link" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imgur.com/M6xV2Np.jpeg" width="100" style="margin-right: 10px;"></a>
-</p>
-<h5 align="center">
->🎀 Mah MUD
-</h5>
-
-
-# 📝 **Tutorial**
-Tutorial has been uploaded on YouTube
-- For mobile phone: https://youtu.be/zJsemXLaRbY?si=f0PE6L4oCGzYBwPn
-
-**Contact me**
-
-<<div style="font-family: Arial, sans-serif; color: black;">
-  <h3>- <a href="https://www.facebook.com/mahmud0x7" style="color: black; text-decoration: none;" target="_blank" rel="noopener">MahMUD Facebook</a></h3>
-  <h3>- <a href="https://wa.me/8801836298139?text=Hi%20MahMUD%2C%20I%20want%20to%20chat%20with%20you!" style="color: black; text-decoration: none;" target="_blank" rel="noopener">MahMUD WhatsApp</a></h3>
-  <h3>- <a href="mahmudx007@gmail.com?subject=Hello%20MahMUD&body=Hi%20MahMUD!" style="color: black; text-decoration: none;">MahMUD Gmail</a></h3>
-</div>
-
- 
-
-<img align="center" src="https://i.imgur.com/UM3ekFf.jpeg"/>
-
-
-🔹ARIYAN MAHMUD
-
+    <div class="section contact">
+        <h2>📞 Contact</h2>
+        <p>Facebook: <a href="https://www.facebook.com/imnotabid">Click Here to Message</a></p>
+    </div>
+</body>
+</html>
