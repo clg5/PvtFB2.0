@@ -1,5 +1,3 @@
-
-
 ![Banner](https://i.supaimg.com/b971558e-c42d-4c9b-aa7e-84b0bef9ddd9.jpg)
 
 ---
@@ -14,7 +12,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/imnotabid)
 
 <!-- Live Animation Updated -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=28F7FF&center=true&vCenter=true&width=500&lines=Creator Omnipotent+Abid" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=28F7FF&center=true&vCenter=true&width=500&lines=Omnipotent+Abid+The+Creator" alt="Typing SVG" />
 
 </div>
 
