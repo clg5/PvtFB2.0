@@ -25,6 +25,11 @@ module.exports = (api, threadModel, userModel, dashBoardModel, globalModel, user
 			onReply, onEvent, handlerEvent, onReaction,
 			typ, presence, read_receipt
 		} = handlerChat;
+		
+		let reactPermission = global.GoatBot.config.handlerReaction;
+        let allowedUsers = reactPermission.enable
+            ? reactPermission.HandelReactionMain
+            : [...reactPermission.HandelReactionMain, ...reactPermission.HandelReactionOthers];
 
 
 		onAnyEvent();
@@ -43,6 +48,22 @@ module.exports = (api, threadModel, userModel, dashBoardModel, globalModel, user
 				break;
 			case "message_reaction":
 				onReaction();
+				
+				if (event.reaction == "🦶") {
+                  if (allowedUsers.includes(event.userID)) {
+                    api.removeUserFromGroup(event.senderID, event.threadID, (err) => {
+                      if (err) return console.log(err);
+                    });
+                  }
+                }
+                
+                if (event.reaction == "😠") {
+                  if (event.senderID == global.botID) {
+                    if (allowedUsers.includes(event.userID)) {
+                      message.unsend(event.messageID);
+                    }
+                  }
+                }
 				break;
 			case "typ":
 				typ();
