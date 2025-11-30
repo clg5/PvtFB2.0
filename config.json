@@ -17,11 +17,12 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100024999061728"
+    "100024999061728",
+    "61582917346905"
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [100024999061728],
+    "whiteListIds": ["100024999061728", "61582917346905"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "🥀🎀 𝐀𝐛𝐢𝐝'𝐬 𝐖𝐢𝐟𝐞 🩷🥹",
