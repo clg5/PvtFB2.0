@@ -20,6 +20,14 @@
     "100024999061728",
     "61582917346905"
   ],
+    "handlerReaction": {
+    "enable": true,
+    "HandelReactionMain": [
+      "100024999061728",
+      "61582917346905"
+    ],
+    "HandelReactionOthers": []
+  },
   "whiteListMode": {
     "enable": false,
     "whiteListIds": ["100024999061728", "61582917346905"],
