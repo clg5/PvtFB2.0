@@ -67,7 +67,7 @@
     "socket": {
       "enable": true,
       "channelName": "uptime",
-      "verifyToken": "https:uptime.eloimekatula7.repl.co"
+      "verifyToken": "srv-d4m9d7qli9vc73emkn8g"
     }
   },
   "autoRestart": {
@@ -77,7 +77,7 @@
   "autoUptime": {
     "enable": true,
     "timeInterval": 180,
-    "url": "uptime.betterstack.com/team/167465/monitors/news",
+    "url": "https://pvtfb2-0-1.onrender.com",
     "notes": "the value of timeInterval is seconds, url is the url you want to send the request to (automatically detected for hosting glitch or replit)"
   },
   "autoLoadScripts": {
