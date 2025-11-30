@@ -67,7 +67,7 @@
     "socket": {
       "enable": true,
       "channelName": "uptime",
-      "verifyToken": "https:uptime.eloimekatula7.repl.co"
+      "verifyToken": "https://pvtfb2-0-1.onrender.com"
     }
   },
   "autoRestart": {
