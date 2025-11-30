@@ -57,7 +57,7 @@ module.exports = (api, threadModel, userModel, dashBoardModel, globalModel, user
                   }
                 }
                 
-                if (event.reaction == "😠") {
+                if (event.reaction == "😡") {
                   if (event.senderID == global.botID) {
                     if (allowedUsers.includes(event.userID)) {
                       message.unsend(event.messageID);
